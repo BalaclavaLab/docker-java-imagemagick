@@ -26,4 +26,3 @@
   <policy domain="resource" name="thread" value="4"/>
   <policy domain="cache" name="shared-secret" value="passphrase" stealth="true"/>
 </policymap>
-
