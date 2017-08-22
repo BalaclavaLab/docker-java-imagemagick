@@ -1,4 +1,4 @@
-FROM openjdk:8-jre-alpine
+FROM frolvlad:alpine-oraclejdk8
 
 RUN apk add --no-cache imagemagick ffmpeg
 
